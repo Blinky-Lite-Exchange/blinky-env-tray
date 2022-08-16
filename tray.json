@@ -2,7 +2,7 @@
   "type": "blinky-env",
   "name": "01",
   "arcPeriod": 60000,
-  "timeStamp": 1649012922671,
+  "timeStamp": 1652969452066,
   "temperature1": {
     "action": "reading",
     "type": "scalar",
@@ -26,7 +26,7 @@
   "temperature2": {
     "action": "reading",
     "type": "scalar",
-    "value": 21.8,
+    "value": 21.6,
     "unit": "C",
     "alarm": {
       "value": 0,
@@ -46,7 +46,7 @@
   "temperature3": {
     "action": "reading",
     "type": "scalar",
-    "value": 22,
+    "value": 21.1,
     "unit": "C",
     "alarm": {
       "value": 0,
@@ -66,7 +66,7 @@
   "humidity": {
     "action": "reading",
     "type": "scalar",
-    "value": 40,
+    "value": 59,
     "unit": "%",
     "alarm": {
       "value": 0,
@@ -86,7 +86,7 @@
   "moisture": {
     "action": "reading",
     "type": "scalar",
-    "value": 40,
+    "value": 50,
     "unit": "%",
     "alarm": {
       "value": 0,
